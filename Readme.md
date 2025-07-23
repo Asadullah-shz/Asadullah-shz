@@ -14,9 +14,9 @@
 <a href="masadullahshahbaz2967@gmail.com"><img src="https://komarev.com/ghpvc/?username=Asadullah-shz" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <hr>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?username=Asadullah-shz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Asadullah-shz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="githubstats">
 </div>
