@@ -94,10 +94,10 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/asadullah-shz/" target="_blank" style="margin: 0 10px;">
+  <!-- <a href="https://www.linkedin.com/in/asadullah-shz/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="40px"/>
   </a>
- <a href="mailto:masadullah2967@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:masadullah2967@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
 
 
