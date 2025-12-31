@@ -17,10 +17,10 @@
 
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Asadullah-shz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="githubstats">
+<!-- <div align="center">
+<img src="https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight&hide_border=true" alt="Asadullah-shz's GitHub Stats https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight&hide_border=true" />
 </div>
-<hr>
+<hr> -->
 
 <h1> 👩‍💻 About </h1>
 <p>
