@@ -73,13 +73,18 @@
 <h2>Languages and Tools</h2>
 <div display="flex" gap="4">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/05e115c0-80d1-4555-b304-47a8245b86fc" />
-
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81f1d0c8-e537-4a04-9155-2f1c75d2c0c3" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e8fa51f6-cbcf-4f58-b760-bf4537cdbe8c" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ad94e5b7-025a-4c70-a3eb-3ddc7fcfd157" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f2a3d63c-3af4-4454-b125-f0452b928f13" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4dc7e6fb-82de-406a-ac8b-9835c86c5a36" />
 <img width="40" height="40" alt="image" src="vs.png">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a93b7199-8cb8-4c71-b685-078534f2fbcb" />
+<img width="48" height="40" alt="image" src="https://github.com/user-attachments/assets/74cb2844-225d-45f8-a7ce-084b0236e4ca" />
+
+
+          
+
 
 
 
