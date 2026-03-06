@@ -22,7 +22,9 @@
    
 [![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=dark)](https://git.io/streak-stats)
 
+</div>
 <hr> 
+
 
 <h1> 👩‍💻 About </h1>
 <p>
