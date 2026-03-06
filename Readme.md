@@ -18,10 +18,11 @@
 
 
 
-<!-- <div align="center">
-<img src="https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight&hide_border=true" alt="Asadullah-shz's GitHub Stats https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight&hide_border=true" />
-</div>
-<hr> -->
+ <div align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=dark)](https://git.io/streak-stats)
+
+<hr> 
 
 <h1> 👩‍💻 About </h1>
 <p>
