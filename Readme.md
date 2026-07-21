@@ -1,126 +1,290 @@
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<br>
-<br>
-<h1 align="center">Hi There,My name is Asadullah Shahbaz 🙋‍♂️</h1>
-<div display="flex " align="center">
-<a href="https://www.linkedin.com/in/asadullah-shahbaz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:masadullah2967@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/wtv._.asad?igsh=dzhueGRib2w3MmN0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
-</div>
-<br>
-<div align="center" margin=10px>
-<a href=""><img src="https://komarev.com/ghpvc/?username=Asadullah-shz" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<hr>
+<h1 align="center">Hi 👋, I'm Asadullah Shahbaz</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
 
-
-
- <div align="center">
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=dark)](https://git.io/streak-stats)
-
-</div>
-<hr> 
-
-
-<h1> 👩‍💻 About </h1>
-<p>
-  I'm a frontend developer passionate about crafting immersive digital experiences through clean, efficient code. Specializing in modern JavaScript, TypeScript, and React ecosystems, I build responsive interfaces that prioritize user-centric design and accessibility. My development approach balances aesthetic sensibility with technical rigor—focusing on performance optimization, component architecture, and seamless UX workflows. Currently deepening my expertise in state management solutions and interactive animations, I thrive on transforming complex requirements into intuitive, pixel-perfect implementations. Let's connect to create web experiences that users love.
-</p>
-
-
-
-<div width="400px" style="margin: auto; text-align: left;">
-
-
-
-
-
-
-<p>Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.</p>
-
-</div>
-
-
-
-
-
-<h1> Featured Projects</h1>
-
-<table>
-  <tr>
-      <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h4>✅  Devfolio</h4>
-    <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
-     <a href="/" target="_blank">
-      
-   
-  </div>
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h4>🛒 Ecommerce Web Application</h4>
-    <p>This is a fully functional e-commerce website built using React. It features a shopping cart, product listings, and a checkout process.
-    </p>
-  </div>
-  </tr>
-  <tr>
-<div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-  <h4> 📦Inventory Management System</h4>
-  <p>The application is suitable for retail stores, warehouses, small businesses, and anyone needing an efficient way to manage inventory and track sales performance. </p>
-</div>
-  </tr>
-</table>
-
-<h2>Languages and Tools</h2>
-<div display="flex" gap="4">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/05e115c0-80d1-4555-b304-47a8245b86fc" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81f1d0c8-e537-4a04-9155-2f1c75d2c0c3" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e8fa51f6-cbcf-4f58-b760-bf4537cdbe8c" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ad94e5b7-025a-4c70-a3eb-3ddc7fcfd157" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f2a3d63c-3af4-4454-b125-f0452b928f13" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4dc7e6fb-82de-406a-ac8b-9835c86c5a36" />
-<img width="40" height="40" alt="image" src="vs.png">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a93b7199-8cb8-4c71-b685-078534f2fbcb" />
-<img width="48" height="40" alt="image" src="https://github.com/user-attachments/assets/74cb2844-225d-45f8-a7ce-084b0236e4ca" />
-
-
-          
-
-
-
-
-
-</div>
-
-### Let's Connect
-
- <p align="center">
-  - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
-  - Let's build something cool together
-  - Every line of code is a step closer to mastering the craft.
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- <a href="https://www.linkedin.com/in/asadullah-shz/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="40px"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/asadullah-shahbaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:masadullah2967@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="mailto:masadullah2967@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/wtv._.asad?igsh=dzhueGRib2w3MmN0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asadullah-shz&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
 
+---
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight)](https://git.io/streak-stats)
 
+</div>
 
+---
 
+# 👨‍💻 About Me
 
+I'm **Asadullah Shahbaz**, a **Full Stack Software Engineer** passionate about building scalable web applications, AI-powered solutions, and mobile applications that solve real-world problems.
 
+I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)**, developing responsive user interfaces, secure backend APIs, and efficient database architectures. Beyond traditional web development, I build **AI chatbots, AI assistants, workflow automations, and cross-platform mobile applications** that help businesses automate repetitive tasks and improve productivity.
 
+I enjoy transforming ideas into production-ready software by combining modern web technologies with AI. Whether it's creating SaaS platforms, integrating LLM APIs, developing automation workflows, or building mobile applications, I'm committed to writing clean, maintainable, and scalable code while continuously learning new technologies.
 
+---
 
+## 🚀 What I Build
 
+- 🌐 Full Stack Web Applications
+- 🚀 SaaS Applications
+- 🤖 AI Chatbots
+- 🧠 AI Assistants
+- ⚡ Workflow Automations
+- 📱 Cross-Platform Mobile Applications
+- ☁️ RESTful APIs
+- 🔐 Authentication & Authorization Systems
+- 📊 Admin Dashboards
+- 🔗 Third-Party API Integrations
 
+---
 
+## 🌱 Currently Learning
+
+I'm continuously improving my backend, cloud, and AI engineering skills.
+
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🏗️ Microservices Architecture
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🤖 Advanced AI Agent Architectures
+- 📚 Model Context Protocol (MCP)
+- 🌍 System Design
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST APIs
+- JWT Authentication
+- OAuth
+- Bcrypt
+- Multer
+- Cloudinary
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+- MongoDB
+- Mongoose
+- Firebase
+- PostgreSql
+- Mysql
+
+---
+
+## 🤖 AI & Automation
+
+### ✅ Experienced With
+
+- OpenAI API
+- Google Gemini API
+- AI Chatbots
+- AI Assistants
+- Prompt Engineering
+- n8n
+- Workflow Automation
+- Webhooks
+- API Integrations
+
+### 📚 Currently Learning
+
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Multi-Agent Systems
+- MCP (Model Context Protocol)
+
+---
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- React Native
+- Expo
+- Kotlin
+
+---
+
+## ☁️ DevOps & Cloud
+
+### ✅ Experienced With
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+- Vercel
+- Render
+- Railway
+  
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+</p>
+
+- Docker
+- Kubernetes
+- AWS
+
+  
+
+---
+
+# 🚀 Featured Projects
+
+### 🎵 Spotify Backend API
+
+A scalable backend inspired by Spotify built with **Node.js**, **Express.js**, and **MongoDB**.
+
+**Features**
+
+- JWT Authentication
+- User Management
+- Playlist Management
+- REST APIs
+- MongoDB Integration
+
+---
+
+### 🛒 MERN E-Commerce Platform
+
+A complete e-commerce application built with the MERN Stack.
+
+**Features**
+
+- User Authentication
+- Product Management
+- Shopping Cart
+- Orders
+- Admin Dashboard
+- Responsive UI
+
+---
+
+### 📦 Inventory Management System
+
+A full-stack inventory management application for businesses.
+
+**Features**
+
+- Inventory Tracking
+- Product Management
+- Sales Reports
+- Dashboard
+- CRUD Operations
+- Authentication
+
+---
+
+### 🤖 AI Chatbots & Automation
+
+AI-powered automation solutions for businesses.
+
+**Features**
+
+- OpenAI Integration
+- Gemini Integration
+- AI Chatbots
+- Business Automation
+- Custom AI Assistants
+- API Integrations
+
+---
+
+### 📱 Mobile Applications
+
+Cross-platform mobile apps built with React Native.
+
+**Features**
+
+- Authentication
+- API Integration
+- Responsive UI
+- Real-Time Data
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build Production-Ready SaaS Applications
+- 🤖 Develop Advanced AI Chatbots & AI Agents
+- ⚡ Master Workflow Automation
+- 📱 Publish Cross-Platform Mobile Applications
+- 🏗️ Learn Microservices Architecture
+- ☁️ Gain Hands-On Experience with AWS & Docker
+- 📚 Master LangChain & RAG
+- 🌍 Contribute to Open Source
+- 💼 Build Products Used by Thousands of Users
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/asadullah-shahbaz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:masadullah2967@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/wtv._.asad">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💬 Quote
+
+## 💬 Building Solutions That Matter
+
+> **I help businesses transform ideas into scalable software by building modern web applications, AI-powered solutions, mobile apps, and intelligent automations—with a focus on performance, security, and exceptional user experience.**
