@@ -1,290 +1,326 @@
-
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
-
-<h1 align="center">Hi 👋, I'm Asadullah Shahbaz</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/asadullah-shahbaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:masadullah2967@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/wtv._.asad?igsh=dzhueGRib2w3MmN0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asadullah-shz&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
-
----
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=tokyonight)](https://git.io/streak-stats)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:06B6D4&height=280&section=header&text=Asadullah%20Shahbaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Automation%20%7C%20SaaS%20Builder&descAlignY=58"/>
+
+<h1>
+Hi, I'm Asadullah Shahbaz 👋
+</h1>
+
+<h3>
+Full Stack Software Engineer building scalable applications and intelligent systems
+</h3>
+
+<p>
+I design and develop modern web applications, backend systems,
+SaaS platforms, and AI-powered automation solutions.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Architecture+%26+API+Development;AI+Automation+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Real+World+Products"/>
+
+
+<p>
+
+<a href="https://github.com/Asadullah-shz/Asadullah-shz/raw/main/Asadullah_Shahbaz_Cv.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asadullah-shahbaz">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:asadshzdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Asadullah-shz&style=for-the-badge"/>
+
+</p>
 
 </div>
+
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Asadullah Shahbaz**, a **Full Stack Software Engineer** passionate about building scalable web applications, AI-powered solutions, and mobile applications that solve real-world problems.
+I'm a **Full Stack Software Engineer** passionate about building scalable software,
+SaaS applications, backend systems, and AI-powered solutions.
 
-I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)**, developing responsive user interfaces, secure backend APIs, and efficient database architectures. Beyond traditional web development, I build **AI chatbots, AI assistants, workflow automations, and cross-platform mobile applications** that help businesses automate repetitive tasks and improve productivity.
+My focus is creating software that combines:
 
-I enjoy transforming ideas into production-ready software by combining modern web technologies with AI. Whether it's creating SaaS platforms, integrating LLM APIs, developing automation workflows, or building mobile applications, I'm committed to writing clean, maintainable, and scalable code while continuously learning new technologies.
+- Clean architecture
+- Great user experience
+- Scalable backend systems
+- Intelligent automation
 
----
 
-## 🚀 What I Build
+Currently working with:
 
-- 🌐 Full Stack Web Applications
-- 🚀 SaaS Applications
-- 🤖 AI Chatbots
-- 🧠 AI Assistants
-- ⚡ Workflow Automations
-- 📱 Cross-Platform Mobile Applications
-- ☁️ RESTful APIs
-- 🔐 Authentication & Authorization Systems
-- 📊 Admin Dashboards
-- 🔗 Third-Party API Integrations
+- React & Next.js
+- TypeScript
+- Node.js & Express
+- MongoDB & PostgreSQL
+- AI APIs and automation workflows
 
----
-
-## 🌱 Currently Learning
-
-I'm continuously improving my backend, cloud, and AI engineering skills.
-
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🏗️ Microservices Architecture
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain
-- 🤖 Advanced AI Agent Architectures
-- 📚 Model Context Protocol (MCP)
-- 🌍 System Design
 
 ---
 
-# 🛠️ Tech Stack
+# 💼 Engineering Experience
 
-## 💻 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
+### Full Stack Development
 
----
+- Building responsive frontend applications with React and TypeScript
+- Developing scalable REST APIs using Node.js and Express
+- Designing database structures and backend architecture
+- Implementing authentication and authorization systems
+- Integrating third-party APIs and AI services
+- Building automation workflows for real-world use cases
 
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- REST APIs
-- JWT Authentication
-- OAuth
-- Bcrypt
-- Multer
-- Cloudinary
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-- MongoDB
-- Mongoose
-- Firebase
-- PostgreSql
-- Mysql
-
----
-
-## 🤖 AI & Automation
-
-### ✅ Experienced With
-
-- OpenAI API
-- Google Gemini API
-- AI Chatbots
-- AI Assistants
-- Prompt Engineering
-- n8n
-- Workflow Automation
-- Webhooks
-- API Integrations
-
-### 📚 Currently Learning
-
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Multi-Agent Systems
-- MCP (Model Context Protocol)
-
----
-
-## 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-- React Native
-- Expo
-- Kotlin
-
----
-
-## ☁️ DevOps & Cloud
-
-### ✅ Experienced With
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-- Vercel
-- Render
-- Railway
-  
-
-### 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
-</p>
-
-- Docker
-- Kubernetes
-- AWS
-
-  
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎵 Spotify Backend API
 
-A scalable backend inspired by Spotify built with **Node.js**, **Express.js**, and **MongoDB**.
+## 🤖 DayFlow AI
 
-**Features**
+### AI Productivity & Workflow Automation Platform
 
-- JWT Authentication
-- User Management
-- Playlist Management
-- REST APIs
-- MongoDB Integration
 
----
+> An intelligent productivity platform designed to help users manage tasks,
+automate workflows, and improve daily productivity using AI.
 
-### 🛒 MERN E-Commerce Platform
 
-A complete e-commerce application built with the MERN Stack.
+### Features
 
-**Features**
+- AI-powered task assistant
+- Smart reminders
+- Workflow automation
+- Productivity analytics
+- Secure authentication
+- Scalable backend architecture
 
-- User Authentication
-- Product Management
-- Shopping Cart
-- Orders
-- Admin Dashboard
-- Responsive UI
 
----
+### Tech Stack
 
-### 📦 Inventory Management System
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `AI APIs`
 
-A full-stack inventory management application for businesses.
+  
+💻 Source Code:[View Repository](https://github.com/Asadullah-shz/DayFlow-Bot) 
 
-**Features**
-
-- Inventory Tracking
-- Product Management
-- Sales Reports
-- Dashboard
-- CRUD Operations
-- Authentication
 
 ---
 
-### 🤖 AI Chatbots & Automation
 
-AI-powered automation solutions for businesses.
+## 🚀 ScaleForge
 
-**Features**
+### AI Sales Automation & CRM Platform
 
-- OpenAI Integration
-- Gemini Integration
-- AI Chatbots
-- Business Automation
-- Custom AI Assistants
-- API Integrations
 
----
+> A SaaS platform designed to automate lead management,
+sales workflows, and customer engagement.
 
-### 📱 Mobile Applications
 
-Cross-platform mobile apps built with React Native.
+### Features
 
-**Features**
+- Lead management system
+- Sales pipeline tracking
+- Analytics dashboard
+- Workflow automation
+- AI-powered insights
 
-- Authentication
-- API Integration
-- Responsive UI
-- Real-Time Data
 
----
+### Tech Stack
 
-# 🎯 2026 Goals
+`Next.js` `TypeScript` `Node.js` `MongoDB` `n8n`
 
-- 🚀 Build Production-Ready SaaS Applications
-- 🤖 Develop Advanced AI Chatbots & AI Agents
-- ⚡ Master Workflow Automation
-- 📱 Publish Cross-Platform Mobile Applications
-- 🏗️ Learn Microservices Architecture
-- ☁️ Gain Hands-On Experience with AWS & Docker
-- 📚 Master LangChain & RAG
-- 🌍 Contribute to Open Source
-- 💼 Build Products Used by Thousands of Users
+
+🔗 Live Demo: [View Live](scale-forge-pifu.vercel.app/) 
+<br>
+💻 Source Code: [View Repository](https://github.com/Asadullah-shz/ScaleForge)
+
 
 ---
 
-# 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/asadullah-shahbaz">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🛒 CommerceX
 
-<a href="mailto:masadullah2967@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Modern E-Commerce Frontend System
 
-<a href="https://www.instagram.com/wtv._.asad">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
+> A responsive e-commerce interface focused on clean UI,
+reusable components, and modern frontend architecture.
+
+
+### Features
+
+- Responsive design
+- Component-based architecture
+- Modern UI patterns
+- Performance optimization
+
+
+### Tech Stack
+
+`React` `TypeScript` `Tailwind CSS`
+
+
+💻 Source Code: 
+
+
+---
+
+
+## 🚕 RideOS
+
+### Transport Management System
+
+
+> A C++ based application demonstrating object-oriented programming
+and software design principles.
+
+
+### Concepts
+
+- Object-Oriented Programming
+- Data Structures
+- System Modeling
+- Software Design
+
+
+### Tech Stack
+
+`C++`
+
+
+---
+
+
+# 🛠️ Technical Skills
+
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs"/>
+
 </p>
 
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase"/>
+
+</p>
+
+
+## AI & Automation
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker"/>
+
+</p>
+
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,linux"/>
+
+</p>
+
+
 ---
 
-## 💬 Quote
+# 🧠 Engineering Principles
 
-## 💬 Building Solutions That Matter
 
-> **I help businesses transform ideas into scalable software by building modern web applications, AI-powered solutions, mobile apps, and intelligent automations—with a focus on performance, security, and exceptional user experience.**
+I believe great software is built through:
+
+- Writing maintainable code
+- Designing scalable systems
+- Understanding user problems
+- Continuously improving engineering skills
+
+
+---
+
+# 🌱 Currently Exploring
+
+
+- AWS Cloud Architecture
+- Docker & Containers
+- Microservices
+- System Design
+- AI Agents
+- LangChain
+- Model Context Protocol (MCP)
+
+
+---
+
+# 📊 GitHub Activity
+
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-shz&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 📈 Contribution Activity
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-shz&theme=tokyo-night"/>
+
+</div>
+
+
+---
+
+# 🤝 Let's Connect
+
+
+<div align="center">
+
+I'm open to:
+
+💼 Software Engineering Opportunities  
+🚀 SaaS Development Projects  
+🤖 AI Automation Collaborations  
+🌍 Open Source Contributions  
+
+
+<br>
+
+<a href="mailto:asadshzdev@gmail.com">
+
+<img src="https://img.shields.io/badge/Let's%20Work%20Together-06B6D4?style=for-the-badge"/>
+
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+> Building scalable software, AI-powered products,
+and modern digital experiences that solve real-world problems.
+
+⭐ Thanks for visiting my profile!
+
+</div>
