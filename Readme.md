@@ -269,7 +269,7 @@ I believe great software is built through:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-shz&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Asadullah-shz&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -323,3 +323,6 @@ and modern digital experiences that solve real-world problems.
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+
+
