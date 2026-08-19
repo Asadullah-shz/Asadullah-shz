@@ -281,8 +281,8 @@ I believe great software is built through:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-shz&theme=tokyo-night"/>
-
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Asadullah-shz&theme=dark" alt="GitHub Streak" /></a> -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-shz&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
