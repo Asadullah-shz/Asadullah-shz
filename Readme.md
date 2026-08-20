@@ -194,7 +194,7 @@ A plug-and-play Vercel API designed to connect existing chat widgets with a loca
 
 ---
 
-### 📈 GitHub Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
