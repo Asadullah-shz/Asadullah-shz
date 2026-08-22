@@ -41,7 +41,7 @@ Hi There! I'm Asadullah Shahbaz
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Asadullah-shz&theme=dark)](https:asadsdev.vercel.app) 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Asadullah-shz" alt="GitHub Streak" />
   
 </div>
 
