@@ -41,7 +41,7 @@ Hi There! I'm Asadullah Shahbaz
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Asadullah-shz" alt="GitHub Streak" />
+[![GitHub Streak](https://github-streak-plum.vercel.app/api/streak?user=Asadullah-shz&theme=dark&locale=en)](https://github.com/Asadullah-shz)
   
 </div>
 
@@ -198,7 +198,7 @@ A plug-and-play Vercel API designed to connect existing chat widgets with a loca
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-shz&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
+[![GitHub Streak](https://github-streak-plum.vercel.app/api/graph?user=Asadullah-shz&theme=dark&locale=en)](https://github.com/Asadullah-shz)
 
 </div>
 
