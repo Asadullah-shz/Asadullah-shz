@@ -1,60 +1,63 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
-</div>
-
 <div align="center">
 
-<h1>
-Hi There! I'm Asadullah Shahbaz
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" alt="Coding Animation"/>
 
-<h3>Full Stack Software Engineer · Backend · AI Automation</h3>
+  <h1>
+    Hi There! I'm Asadullah Shahbaz
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand"/>
+  </h1>
 
-</div>
-
-<div align="center" id="badges">
-
-<a href="https://www.linkedin.com/in/asadullah-shahbaz">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-<a href="mailto:asadshzdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-
-<a href="https://github.com/Asadullah-shz">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  
-</a>
-
-  <a href="./Asadullah_Shahbaz_Cv.pdf"> <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/> </a>
-
-
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Asadullah-shz&style=flat-square&color=blue" alt="Profile Views"/>
+  <h3>Full Stack Software Engineer · Backend · AI Automation</h3>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+  <a href="https://www.linkedin.com/in/asadullah-shahbaz">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:asadshzdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/Asadullah-shz">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
   
-[![GitHub Streak](https://github-streak-plum.vercel.app/api/streak?user=Asadullah-shz&theme=dark&locale=en)](https://github.com/Asadullah-shz)
-  
+
+</div>
+<div align="center">
+<a href="./Asadullah_Shahbaz_Cv.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+<br/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Asadullah-shz&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
 
+<br/>
 
+<div align="center">
+
+  <a href="https://github.com/Asadullah-shz">
+    <img src="https://github-streak-plum.vercel.app/api/streak?user=Asadullah-shz&theme=dark&locale=en" alt="GitHub Streak"/>
+  </a>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-👋 I'm **Asadullah Shahbaz**, a Full Stack Software Engineer focused on building scalable applications, backend systems, SaaS platforms, developer tools, and intelligent automation.
+I'm **Asadullah Shahbaz**, a Full Stack Software Engineer focused on building scalable applications, backend systems, SaaS platforms, developer tools, and intelligent automation.
 
 🚀 I enjoy turning real-world business and technical problems into reliable software, with a particular interest in **backend architecture, APIs, microservices, event-driven systems, and AI automation**.
 
@@ -64,17 +67,19 @@ Hi There! I'm Asadullah Shahbaz
 
 🌱 I'm continuously exploring **distributed systems, cloud architecture, AI agents, system design, and modern backend technologies**.
 
-📫 I'm open to **software engineering opportunities, SaaS projects, AI automation, backend engineering, and interesting technical collaborations.**
+📫 I'm open to **software engineering opportunities, SaaS projects, AI automation, backend engineering, and interesting technical collaborations**.
 
 ---
 
 ## 🚀 Featured Projects
 
-#### 💳 Payment Platform
+### 💳 Payment Platform
 
 **Multi-Tenant Event-Driven Payment Infrastructure**
 
 A scalable payment platform built with microservices for payments, subscriptions, merchants, refunds, payouts, and webhook processing.
+
+**Highlights**
 
 * Microservices architecture
 * RabbitMQ event-driven communication
@@ -83,17 +88,21 @@ A scalable payment platform built with microservices for payments, subscriptions
 * Multi-tenant architecture
 * Webhooks & transaction processing
 
-**Tech:** `Node.js` `Express` `MongoDB` `RabbitMQ` `Stripe` `JWT`
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Asadullah-shz/payment-service)
+`Node.js` `Express` `MongoDB` `RabbitMQ` `Stripe` `JWT`
+
+🔗 **[View Repository](https://github.com/Asadullah-shz/payment-service)**
 
 ---
 
-#### 🔄 DevSync
+### 🔄 DevSync
 
 **Developer File Synchronization & Backup Ecosystem**
 
 A developer-focused platform for synchronizing workspaces across devices with backup, conflict resolution, desktop management, and CLI support.
+
+**Highlights**
 
 * Real-time synchronization
 * Backup & conflict resolution
@@ -102,17 +111,21 @@ A developer-focused platform for synchronizing workspaces across devices with ba
 * Docker deployment
 * Monorepo architecture
 
-**Tech:** `Electron` `React` `TypeScript` `Node.js` `Express` `SQLite` `Docker`
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Asadullah-shz/DevSync)
+`Electron` `React` `TypeScript` `Node.js` `Express` `SQLite` `Docker`
+
+🔗 **[View Repository](https://github.com/Asadullah-shz/DevSync)**
 
 ---
 
-#### 📊 DayFlow
+### 📊 DayFlow
 
 **Multi-Tenant Business Intelligence Assistant**
 
 A business assistant connecting live business data with **WhatsApp and Telegram** to provide actionable insights and automated reports.
+
+**Highlights**
 
 * Multi-tenant architecture
 * Business data integrations
@@ -121,17 +134,21 @@ A business assistant connecting live business data with **WhatsApp and Telegram*
 * Context-aware insights
 * Provider/model routing
 
-**Tech:** `TypeScript` `Node.js` `WhatsApp` `Telegram` `Google Sheets` `Notion` `Airtable` `Supabase`
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Asadullah-shz/DayFlow-Business-Assistant-Bot-)
+`TypeScript` `Node.js` `WhatsApp` `Telegram` `Google Sheets` `Notion` `Airtable` `Supabase`
+
+🔗 **[View Repository](https://github.com/Asadullah-shz/DayFlow-Business-Assistant-Bot-)**
 
 ---
 
-#### 🛡️ Master Traffic Shield
+### 🛡️ Master Traffic Shield
 
 **WordPress Security & Traffic Intelligence**
 
 An enterprise WordPress security plugin designed to detect click fraud, malicious bots, automated attacks, and suspicious traffic.
+
+**Highlights**
 
 * Click-fraud detection
 * Advanced bot detection
@@ -141,15 +158,19 @@ An enterprise WordPress security plugin designed to detect click fraud, maliciou
 * Automated threat blocking
 * Telegram security alerts
 
-**Tech:** `PHP` `JavaScript` `WordPress` `Browser Fingerprinting` `Behavioral Analytics`
+**Tech Stack**
+
+`PHP` `JavaScript` `WordPress` `Browser Fingerprinting` `Behavioral Analytics`
 
 ---
 
-#### 🤖 Standalone Chat Bot API
+### 🤖 Standalone Chat Bot API
 
 **Universal Serverless Chat Backend**
 
 A plug-and-play Vercel API designed to connect existing chat widgets with a local knowledge and response engine.
+
+**Highlights**
 
 * Universal `POST /api/chat`
 * Multiple input formats
@@ -158,58 +179,76 @@ A plug-and-play Vercel API designed to connect existing chat widgets with a loca
 * Dynamic knowledge management
 * CORS-enabled integration
 
-**Tech:** `TypeScript` `Vercel` `Serverless Functions` `TF-IDF` `REST API`
+**Tech Stack**
+
+`TypeScript` `Vercel` `Serverless Functions` `TF-IDF` `REST API`
 
 ---
 
-### 🛠️ Languages & Tools
-
-<div>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-
-</div>
-
----
-
-### 🧩 What I Work With
-
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS
-
-**Backend:** Node.js · Express · REST APIs
-
-**Databases:** MongoDB · PostgreSQL · SQLite
-
-**Architecture:** Microservices · Event-Driven Architecture · Multi-Tenancy · RPC · Pub/Sub
-
-**Infrastructure:** Docker · RabbitMQ · AWS · Linux
-
-**Automation & AI:** AI APIs · Knowledge Retrieval · Workflow Automation
-
----
-
-### 🌱 Currently Exploring
-
-* ☁️ AWS & Cloud Architecture
-* 🏗️ Distributed Systems & System Design
-* 🔄 Event-Driven Architecture
-* 🤖 AI Agents
-* 🔗 LangChain
-* 🔌 Model Context Protocol (MCP)
-
----
-
-### 📈 Contribution Activity
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-[![GitHub Streak](https://github-streak-plum.vercel.app/api/graph?user=Asadullah-shz&theme=dark&locale=en)](https://github.com/Asadullah-shz)
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+## 🧩 What I Work With
+
+| Area                | Technologies                                                              |
+| ------------------- | ------------------------------------------------------------------------- |
+| **Frontend**        | React · Next.js · TypeScript · Tailwind CSS                               |
+| **Backend**         | Node.js · Express · REST APIs                                             |
+| **Databases**       | MongoDB · PostgreSQL · SQLite                                             |
+| **Architecture**    | Microservices · Event-Driven Architecture · Multi-Tenancy · RPC · Pub/Sub |
+| **Infrastructure**  | Docker · RabbitMQ · AWS · Linux                                           |
+| **Automation & AI** | AI APIs · Knowledge Retrieval · Workflow Automation                       |
+
+---
+
+## 🌱 Currently Exploring
+
+* ☁️ **AWS & Cloud Architecture**
+* 🏗️ **Distributed Systems & System Design**
+* 🔄 **Event-Driven Architecture**
+* 🤖 **AI Agents**
+* 🔗 **LangChain**
+* 🔌 **Model Context Protocol (MCP)**
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Asadullah-shz">
+
+<img src="https://github-streak-plum.vercel.app/api/graph?user=Asadullah-shz&theme=dark&locale=en" alt="GitHub Contribution Graph"/>
+
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -218,7 +257,7 @@ I'm always interested in building useful software and solving challenging techni
 <br/>
 
 <a href="mailto:asadshzdev@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's%20Build%20Something-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Build Something"/>
 </a>
 
 </div>
@@ -227,6 +266,6 @@ I'm always interested in building useful software and solving challenging techni
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
