@@ -27,7 +27,7 @@ Hi There! I'm Asadullah Shahbaz
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   
 </a>
- <a href="./Asadullah-Shahbaz-Resume.pdf"> <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/> </a>
+ <a href="./Asadullah_Shahbaz_Cv.pdf"> <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/> </a>
  
 
 
