@@ -25,9 +25,12 @@ Hi There! I'm Asadullah Shahbaz
 
 <a href="https://github.com/Asadullah-shz">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  
 </a>
+ <a href="./Asadullah-Shahbaz-Resume.pdf"> <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/> </a>
+ 
 
-</div>
+
 
 <br/>
 
@@ -44,6 +47,8 @@ Hi There! I'm Asadullah Shahbaz
 [![GitHub Streak](https://github-streak-plum.vercel.app/api/streak?user=Asadullah-shz&theme=dark&locale=en)](https://github.com/Asadullah-shz)
   
 </div>
+
+
 
 ---
 
